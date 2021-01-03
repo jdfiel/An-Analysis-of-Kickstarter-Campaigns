@@ -32,7 +32,7 @@ The *Theatre Outcomes Based on Launch Date* graph indicates that the success:fai
 Projects under Goal 1000 to 4999 are the safest to launch, according to the data. Statistically speaking, the Goal 1000 to 4999 success rate of 73% is more reliable than the 76% of Goal Less Than 1000 due to the fact that the sample pool is larger. Thus, even if the 76% is larger, greater confidence can be placed in the 73%. By the same logic, the next highest success rates of 67% cannot be trusted due to the nigh insignifcant sample size.
 
 #### Figure 2. Outcomes vs Goals
-![Outcomes_vs_Goals](https://github.com/jdfiel/An-Analysis-of-Kickstarter-Campains/blob/main/Resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals]()
 
 - What are some limitations of this dataset?
 
