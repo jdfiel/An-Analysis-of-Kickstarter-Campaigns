@@ -7,10 +7,17 @@ To create statistically based written and visual deliverables that Louise can co
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-The month with the highest Grand Total of plays launched was the month of May. May also had the highest number of Succesful plays. June had the second highest Grand Total and Succesful plays. June also had less Failed plays, though the difference was very small. Very few projects are cancelled.
+The month with the highest Grand Total of plays launched was the month of May, which also had the highest number of Succesful plays. June had the second highest Grand Total and Succesful plays. Though the difference was very small, June did have less Failed plays than May. The number of canceled plays stays relatively consistent, while the number of successful plays jumps significantly around early mid-year. Very few projects are cancelled throughout the year.
+
+#### Figure 1. Theatre Outcomes vs Launch
+![Theatre_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-Projects with goals of less than $5000 had the highest success rates of +70%. The next highest success rates were for projects between $35000 to $44999, but the Total Projects for these goals were exponentially lower. Projects with goals between $1000 to $4999 occured the most frequently, nearly twice as often as the next most common goal. No plays are cancelled.
+Projects with goals of less than $5000 had the highest success rates of +70%. The next highest success rates were for projects between $35000 to $44999, but the Total Projects for these goals were exponentially lower. Projects under Goal $1000 to $4999 occured the most frequently, nearly twice as often as the next most common goal. No plays are cancelled.
+
+#### Figure 2. Outcomes vs Goals
+![Outcomes_vs_Goals](https://github.com/jdfiel/An-Analysis-of-Kickstarter-Campains/blob/main/Resources/Outcomes_vs_Goals.png)
+
 ### Challenges and Difficulties Encountered
 #### Challenge 1:
 Creating the *Outcomes Based on Goal* table and graph proved to be difficult. There was a disconnect between the understanding of notation from the human perspective compared to Excel. It was easy to forget how precise Excel was, and this resulted in confusion when verifying the values for the table as it took a while to realize that 1000 is not less than 1000.
@@ -24,15 +31,9 @@ The best time to launch a project would be either in May or June. These months s
 #### Conclusion 2:
 The *Theatre Outcomes Based on Launch Date* graph indicates that the success:failure ratio is fairly consistent outside of the April to August time frame - failed projects are about half the number of successful projects. The exceptions to this rule are October and December. Therefore, if for some reason, Louise would want to launch a play outside of the obvious "high season", she should at the very least not launch a project in October or December.
 
-#### Figure 1. Theatre Outcomes vs Launch
-![Theatre_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
-
 - What can you conclude about the Outcomes based on Goals?
 
 Projects under Goal 1000 to 4999 are the safest to launch, according to the data. Statistically speaking, the Goal 1000 to 4999 success rate of 73% is more reliable than the 76% of Goal Less Than 1000 due to the fact that the sample pool is larger. Thus, even if the 76% is larger, greater confidence can be placed in the 73%. By the same logic, the next highest success rates of 67% cannot be trusted due to the nigh insignifcant sample size.
-
-#### Figure 2. Outcomes vs Goals
-![Outcomes_vs_Goals](https://github.com/jdfiel/An-Analysis-of-Kickstarter-Campains/blob/main/Resources/Outcomes_vs_Goals.png)
 
 - What are some limitations of this dataset?
 
