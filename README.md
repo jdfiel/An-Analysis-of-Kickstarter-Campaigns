@@ -13,7 +13,7 @@ The month with the highest Grand Total of plays launched was the month of May, w
 ![Theatre_Outcomes_vs_Launch](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
-Projects with goals of less than $5000 had the highest success rates of +70%. The next highest success rates were for projects between $35000 to $44999, but the Total Projects for these goals were exponentially lower. Projects under Goal $1000 to $4999 occured the most frequently, nearly twice as often as the next most common goal. No plays are cancelled.
+Projects with goals of less than $5000 had the highest success rates of +70%. The next highest success rates were for projects between $35000 to $44999, but the Total Projects for these goals were exponentially lower. Projects in Goal $1000 to $4999 occured the most frequently, nearly twice as often as the next most common goal. No plays are cancelled.
 
 #### Figure 2. Outcomes vs Goals
 ![Outcomes_vs_Goals](https://github.com/jdfiel/An-Analysis-of-Kickstarter-Campains/blob/main/Resources/Outcomes_vs_Goals.png)
@@ -29,15 +29,15 @@ It is difficult to have confidence in one's formulas when dealing with data sets
 #### Conclusion 1:
 The best time to launch a project would be either in May or June. These months saw both the highest number of projects launching as well as the highest success rates. This means that many in the industry recognize this time as ideal to launch and/or there are more potential backers during this time frame.
 #### Conclusion 2:
-The *Theatre Outcomes Based on Launch Date* graph indicates that the success:failure ratio is fairly consistent outside of the April to August time frame - failed projects are about half the number of successful projects. The exceptions to this rule are October and December. Therefore, if for some reason, Louise would want to launch a play outside of the obvious "high season", she should at the very least not launch a project in October or December.
+The *Theatre Outcomes Based on Launch Date* graph indicates that the success:failure ratio is fairly consistent outside of the April to August time-frame - failed projects are about half the number of successful projects. The exceptions to this rule are October and December. Therefore, if for some reason, Louise would want to launch a play outside of the obvious "high season", she should at the very least not launch a project in October or December.
 
 - What can you conclude about the Outcomes based on Goals?
 
-Projects under Goal 1000 to 4999 are the safest to launch, according to the data. Statistically speaking, the Goal 1000 to 4999 success rate of 73% is more reliable than the 76% of Goal Less Than 1000 due to the fact that the sample pool is larger. Thus, even if the 76% is larger, greater confidence can be placed in the 73%. By the same logic, the next highest success rates of 67% cannot be trusted due to the nigh insignifcant sample size.
+Projects in Goal 1000 to 4999 are the safest to launch, according to the data. Statistically speaking, the Goal 1000 to 4999 success rate of 73% is more reliable than the 76% of Goal Less Than 1000 due to the fact that the sample pool is larger. Thus, even if the 76% is larger, greater confidence can be placed in the 73%. By the same logic, the next highest success rates of 67% cannot be trusted due to the nigh insignifcant sample size.
 
 - What are some limitations of this dataset?
 
-The most notable limitaion of this dataset is the fact that the sample sizes for various outcomes are not consistent. For example, it is difficult to discern if the 45000 to 49999 Goal project failed because all projects of that goal will fail or if it simply occurred for this project. This limitation means that we cannot validate any conclusion using stricly numerical approaches to support our arguments as the data can be extremely skewed depending on both the sample size and the sample itself. Another issue is that the currency is not standardized. We are comparing different monetary values: where $5 USD may have more or less purchasing power than $5 of another currency. THus, even when comparing successful projects from different countries (read:currencies) that both recieved $"x" in pledges, the data will be skewed as one of them will be misrepresented.
+The most notable limitaion of this dataset is the fact that the sample sizes for various outcomes are not consistent. For example, it is difficult to discern if the Goal 45000 to 49999 project failed because all projects of that goal will fail or if it simply occurred for this project. This limitation means that we cannot validate any conclusion using stricly numerical approaches to support our arguments as the data can be extremely skewed depending on both the sample size and the sample itself. Another issue is that the currency is not standardized. We are comparing different monetary values: where $5 USD may have more or less purchasing power than $5 of another currency. Thus, even when comparing successful projects from different countries (read:currencies) that both recieved $"x" in pledges, the data will be skewed as one of them will be misrepresented.
 
 - What are some other possible tables and/or graphs that we could create?
 
