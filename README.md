@@ -25,7 +25,7 @@ The best time to launch a project would be either in May or June. These months s
 The *Theatre Outcomes Based on Launch Date* graph indicates that the success:failure ratio is fairly consistent outside of the April to August time frame - failed projects are about half the number of successful projects. The exceptions to this rule are October and December. Therefore, if for some reason, Louise would want to launch a play outside of the obvious "high season", she should at the very least not launch a project in October or December.
 
 #### Figure 1. Theatre Outcomes vs Launch
-![Theatre_Outcomes_vs_Launch]()
+![Theatre_Outcomes_vs_Launch](https://github.com/jdfiel/An-Analysis-of-Kickstarter-Campains/blob/main/Resources/Theater_Outcomes_vs_Launch.png)
 
 - What can you conclude about the Outcomes based on Goals?
 
